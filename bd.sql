@@ -1,6 +1,6 @@
 -- Crear la base de datos
-CREATE DATABASE IF NOT EXISTS servicio_pcs;
-USE servicio_pcs;
+CREATE DATABASE IF NOT EXISTS servicio_mantenimiento;
+USE servicio_mantenimiento;
 
 -- Eliminar tablas si existen (orden correcto por claves foráneas)
 DROP TABLE IF EXISTS servicios;
