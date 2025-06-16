@@ -15,7 +15,7 @@
     <style>
         body {
             min-height: 100vh;
-            background: linear-gradient(-45deg, #00ffe7, #1e2a3a, #00bfff, #98bbc4, #232b38, #00ffe7);
+            background: linear-gradient(-45deg, #00ffe7, #22304a, #00bfff, #2e3c54, #232b38, #00ffe7);
             background-size: 400% 400%;
             animation: gradientBG 15s ease infinite;
             display: flex;
