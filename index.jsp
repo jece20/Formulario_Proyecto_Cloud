@@ -28,7 +28,7 @@
             <div class="col-md-3 col-lg-2 d-md-block sidebar collapse">
                 <div class="position-sticky pt-3">
                     <div class="text-center mb-4">
-                        <h2 class="title">Multitintas INK</h2>
+                        <h2 class="title">TechService</h2>
                         <img class="logo img-fluid" src="img/log.jpg" alt="Logo de TechService">
                     </div>
                     <ul class="nav flex-column">

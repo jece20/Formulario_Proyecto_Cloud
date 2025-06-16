@@ -8,16 +8,15 @@
         // Cargar el driver de MySQL
         Class.forName("com.mysql.jdbc.Driver");
         // Establecer la conexión local
-        /*
-        String url = "jdbc:mysql://localhost:3306/servicio_mantenimiento";
+        
+        String url = "jdbc:mysql://localhost:3306/servicio_pcs";
         String usuario = "root";
         String password = "";
-        */
         
         // Establecer la conexión online clever cloud
-        String url = "jdbc:mysql://br4en9dxfl3m20e3tpod-mysql.services.clever-cloud.com:3306/br4en9dxfl3m20e3tpod";
+        /*String url = "jdbc:mysql://br4en9dxfl3m20e3tpod-mysql.services.clever-cloud.com:3306/br4en9dxfl3m20e3tpod";
         String usuario = "ueo7xtdwubyezxwo";
-        String password = "KN8GU2gECoVJX6k6lrw6";
+        String password = "KN8GU2gECoVJX6k6lrw6";*/
 
         conexion = DriverManager.getConnection(url, usuario, password);
         
